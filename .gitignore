@@ -1,0 +1,10 @@
+.idea
+target
+*.iml
+*.swp
+*~*.xlsx
+logs/
+static/
+search/out
+search/.settings
+search/.project
